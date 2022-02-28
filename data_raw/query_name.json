@@ -1,0 +1,5 @@
+{
+    "CTA": ["DynMulti4D__1_5__H20f", "AngioArchCoW"],
+    "NCCT": ["[Head|Brain]*__5_0__", "5_mm_brain", 
+    "HeadStandard", "StdBrain"]
+}
